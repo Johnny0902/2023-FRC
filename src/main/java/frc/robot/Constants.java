@@ -13,6 +13,13 @@ package frc.robot;
  * constants are needed, to reduce verbosity.
  */
 public final class Constants {
+    // Motor number assignment for drivebase
+    public final static int LeftFront = 1;
+    public final static int LeftBack = 2;
+    public final static int RightFront = 3;
+    public final static int RightBack = 4;
 
+    public final static int joystickPort = 1; 
     
+
 }
